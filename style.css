@@ -30,15 +30,16 @@ nav {
     word-spacing: 4px;
     text-transform: uppercase;
     font-family: 'Reggae One', cursive;
-    display: inline-block;
+    display: flex;
     margin-left: 20px;
+    align-items: center;
 
 }
 
 .pic {
     padding-bottom: 0px;
     width: 100px;
-    height: 30px;
+    height: 50px;
 }
 
 
